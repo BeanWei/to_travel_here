@@ -1,0 +1,8 @@
+*.pyc
+TravelSpider/TravelSpider/__pycache__/middlewares.cpython-36.pyc
+TravelSpider/TravelSpider/__pycache__/__init__.cpython-36.pyc
+TravelSpider/TravelSpider/__pycache__/items.cpython-36.pyc
+TravelSpider/TravelSpider/__pycache__/pipelines.cpython-36.pyc
+TravelSpider/TravelSpider/__pycache__/settings.cpython-36.pyc
+TravelSpider/TravelSpider/spiders/__pycache__/__init__.cpython-36.pyc
+TravelSpider/TravelSpider/spiders/__pycache__/getAirportLowprice.cpython-36.pyc
