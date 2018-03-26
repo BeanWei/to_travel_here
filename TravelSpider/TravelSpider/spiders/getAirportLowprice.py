@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+import os
 import scrapy
 from scrapy import Request
 from scrapy import log
@@ -15,8 +16,9 @@ class GetairportlowpriceSpider(scrapy.Spider):
     allowed_domains = ['https://www.alitrip.com/']
 
     def start_requests(self):
-        with open('allAirport.json','r') as f:
+        with open(os.path.abspath(os.path.join(os.getcwd(), "../.."))+'/dataSource/allAirport.json','r',encoding="UTF-8") as f:
             temp = json.loads(f.read())
+        # items = []
         for arrCity in temp:
             item = LowpriceItem()
             arrCityCode = arrCity['airportShortName']
@@ -25,6 +27,7 @@ class GetairportlowpriceSpider(scrapy.Spider):
             item['arrCityCode'] = arrCityCode
             item['airportLatitude'] = arrCity['airportLatitude']
             item['airportLongitude'] = arrCity['airportLongitude']
+            # items.append(item)
             yield Request(url=startUrl,meta={'item_1':item},callback=self.parse)
 
     def parse(self,response):
