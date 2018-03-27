@@ -1,4 +1,5 @@
 *.pyc
+/.PyCharm50/
 TravelSpider/TravelSpider/__pycache__/middlewares.cpython-36.pyc
 TravelSpider/TravelSpider/__pycache__/__init__.cpython-36.pyc
 TravelSpider/TravelSpider/__pycache__/items.cpython-36.pyc

@@ -5,6 +5,7 @@
 # Don't forget to add your pipeline to the ITEM_PIPELINES setting
 # See: https://doc.scrapy.org/en/latest/topics/item-pipeline.html
 from scrapy.exporters import JsonItemExporter
+import os
 
 class TravelspiderPipeline(object):
     def process_item(self, item, spider):
@@ -12,7 +13,7 @@ class TravelspiderPipeline(object):
 
 class JsonExporterPipeline(object):
     def __init__(self):
-        self.file = open('lowprice.json','wb')
+        self.file = open(os.path.abspath(os.path.dirname(__file__))+'/spiders/lowprice.json','wb')
         self.exporter = JsonItemExporter(self.file,encoding="utf-8",ensure_ascii=False)
         self.exporter.start_exporting()
 

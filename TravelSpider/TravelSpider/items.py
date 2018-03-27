@@ -15,8 +15,7 @@ class TravelspiderItem(scrapy.Item):
 
 class LowpriceItem(scrapy.Item):
     cityName = scrapy.Field()
+    airportName = scrapy.Field()
     arrCityCode = scrapy.Field()
-    airportLatitude = scrapy.Field()
-    airportLongitude = scrapy.Field()
     price = scrapy.Field()
     
