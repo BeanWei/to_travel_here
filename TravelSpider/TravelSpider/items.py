@@ -19,3 +19,7 @@ class LowpriceItem(scrapy.Item):
     arrCityCode = scrapy.Field()
     price = scrapy.Field()
     
+class AllUsefulInfoItem(scrapy.Item):
+    cityID = scrapy.Field()
+    tid = scrapy.Field()
+    answers = scrapy.Field()

@@ -13,6 +13,11 @@ backDate = '2018-04-08'
 
 class GetairportlowpriceSpider(scrapy.Spider):
     name = 'getAirportLowprice'
+    custom_settings = {
+        'ITEM_PIPELINES' : {
+            'TravelSpider.pipelines.JsonExporterPipeline_One': 300,
+        }      
+    }
     allowed_domains = ['https://www.alitrip.com/']
 
     def start_requests(self):

@@ -11,7 +11,7 @@ class TravelspiderPipeline(object):
     def process_item(self, item, spider):
         return item
 
-class JsonExporterPipeline(object):
+class JsonExporterPipeline_One(object):
     def __init__(self):
         self.file = open(os.path.abspath(os.path.dirname(__file__))+'/spiders/lowprice.json','wb')
         self.exporter = JsonItemExporter(self.file,encoding="utf-8",ensure_ascii=False)
@@ -24,3 +24,19 @@ class JsonExporterPipeline(object):
     def process_item(self,item,spider):
         self.exporter.export_item(item)
         return item
+
+
+class JsonExporterPipeline_Two(object):
+    def __init__(self):
+        self.file = open(os.path.abspath(os.path.dirname(__file__))+'/spiders/Allanswers.json','wb')
+        self.exporter = JsonItemExporter(self.file,encoding="utf-8",ensure_ascii=False)
+        self.exporter.start_exporting()
+
+    def close_spider(self,spider):
+        self.exporter.finish_exporting()
+        self.file.close()
+
+    def process_item(self,item,spider):
+        self.exporter.export_item(item)
+        return item
+
