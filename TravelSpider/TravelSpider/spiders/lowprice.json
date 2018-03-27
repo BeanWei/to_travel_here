@@ -6,6 +6,18 @@
         "price": 1100.0
     },
     {
+        "cityName": "临沂",
+        "airportName": "临沂机场",
+        "arrCityCode": "LYI",
+        "price": 2328.0
+    },
+    {
+        "cityName": "太原",
+        "airportName": "武宿机场",
+        "arrCityCode": "TYN",
+        "price": 683.0
+    },
+    {
         "cityName": "运城",
         "airportName": "运城机场",
         "arrCityCode": "YCU",
@@ -15,13 +27,7 @@
         "cityName": "上海﹙虹桥﹚",
         "airportName": "虹桥国际机场",
         "arrCityCode": "SHA",
-        "price": 976.0
-    },
-    {
-        "cityName": "临沂",
-        "airportName": "临沂机场",
-        "arrCityCode": "LYI",
-        "price": 2328.0
+        "price": 990.0
     },
     {
         "cityName": "青岛",
@@ -40,12 +46,6 @@
         "airportName": "莱山机场",
         "arrCityCode": "YNT",
         "price": 844.0
-    },
-    {
-        "cityName": "太原",
-        "airportName": "武宿机场",
-        "arrCityCode": "TYN",
-        "price": 710.0
     },
     {
         "cityName": "呼和浩特",
@@ -87,25 +87,19 @@
         "cityName": "合肥",
         "airportName": "骆岗机场",
         "arrCityCode": "HFE",
-        "price": 713.0
+        "price": 700.0
     },
     {
         "cityName": "黄山",
         "airportName": "屯溪机场",
         "arrCityCode": "TXN",
-        "price": 1210.0
+        "price": 1510.0
     },
     {
         "cityName": "南昌",
         "airportName": "昌北机场",
         "arrCityCode": "KHN",
-        "price": 845.0
-    },
-    {
-        "cityName": "赣州",
-        "airportName": "黄金机场",
-        "arrCityCode": "KOW",
-        "price": 2400.0
+        "price": 880.0
     },
     {
         "cityName": "常州",
@@ -117,19 +111,19 @@
         "cityName": "南京",
         "airportName": "绿口国际机场",
         "arrCityCode": "NKG",
-        "price": 915.0
-    },
-    {
-        "cityName": "盐城",
-        "airportName": "盐城机场",
-        "arrCityCode": "YNZ",
-        "price": 1303.0
+        "price": 927.0
     },
     {
         "cityName": "南通",
         "airportName": "兴东机场",
         "arrCityCode": "NTG",
         "price": 1270.0
+    },
+    {
+        "cityName": "赣州",
+        "airportName": "黄金机场",
+        "arrCityCode": "KOW",
+        "price": 2400.0
     },
     {
         "cityName": "无锡",
@@ -142,6 +136,18 @@
         "airportName": "观音机场",
         "arrCityCode": "XUZ",
         "price": 1054.0
+    },
+    {
+        "cityName": "盐城",
+        "airportName": "盐城机场",
+        "arrCityCode": "YNZ",
+        "price": 1303.0
+    },
+    {
+        "cityName": "郑州",
+        "airportName": "新郑机场",
+        "arrCityCode": "CGO",
+        "price": 855.0
     },
     {
         "cityName": "拉萨",
@@ -159,25 +165,25 @@
         "cityName": "海口",
         "airportName": "美兰机场",
         "arrCityCode": "HAK",
-        "price": 1250.0
+        "price": 1393.0
     },
     {
         "cityName": "三亚",
         "airportName": "凤凰国际机场",
         "arrCityCode": "SYX",
-        "price": 1795.0
+        "price": 1790.0
     },
     {
-        "cityName": "郑州",
-        "airportName": "新郑机场",
-        "arrCityCode": "CGO",
-        "price": 855.0
+        "cityName": "杭州",
+        "airportName": "萧山机场",
+        "arrCityCode": "HGH",
+        "price": 1026.0
     },
     {
         "cityName": "西宁",
         "airportName": "曹家堡机场",
         "arrCityCode": "XNN",
-        "price": 610.0
+        "price": 552.0
     },
     {
         "cityName": "黄岩",
@@ -192,12 +198,6 @@
         "price": 1179.0
     },
     {
-        "cityName": "杭州",
-        "airportName": "萧山机场",
-        "arrCityCode": "HGH",
-        "price": 1024.0
-    },
-    {
         "cityName": "温州",
         "airportName": "永强机场",
         "arrCityCode": "WNZ",
@@ -210,16 +210,16 @@
         "price": 760.0
     },
     {
-        "cityName": "贵阳",
-        "airportName": "龙洞堡机场",
-        "arrCityCode": "KWE",
-        "price": 409.0
-    },
-    {
         "cityName": "长沙",
         "airportName": "黄花机场",
         "arrCityCode": "CSX",
-        "price": 680.0
+        "price": 673.0
+    },
+    {
+        "cityName": "贵阳",
+        "airportName": "龙洞堡机场",
+        "arrCityCode": "KWE",
+        "price": 339.0
     },
     {
         "cityName": "迪庆",
@@ -228,16 +228,34 @@
         "price": 1130.0
     },
     {
+        "cityName": "大理",
+        "airportName": "大理机场",
+        "arrCityCode": "DLU",
+        "price": 2210.0
+    },
+    {
         "cityName": "西双版纳",
         "airportName": "嘎洒机场",
         "arrCityCode": "JHG",
         "price": 1773.0
     },
     {
+        "cityName": "昆明",
+        "airportName": "巫家坝机场",
+        "arrCityCode": "KMG",
+        "price": 665.0
+    },
+    {
         "cityName": "丽江",
         "airportName": "丽江机场",
         "arrCityCode": "LJG",
-        "price": 1105.0
+        "price": 1100.0
+    },
+    {
+        "cityName": "芒市",
+        "airportName": "芒市机场",
+        "arrCityCode": "LUM",
+        "price": 1170.0
     },
     {
         "cityName": "思茅",
@@ -252,34 +270,10 @@
         "price": 576.0
     },
     {
-        "cityName": "大理",
-        "airportName": "大理机场",
-        "arrCityCode": "DLU",
-        "price": 2210.0
-    },
-    {
-        "cityName": "昆明",
-        "airportName": "巫家坝机场",
-        "arrCityCode": "KMG",
-        "price": 663.0
-    },
-    {
-        "cityName": "芒市",
-        "airportName": "芒市机场",
-        "arrCityCode": "LUM",
-        "price": 1170.0
-    },
-    {
         "cityName": "哈尔滨",
         "airportName": "阎家岗机场",
         "arrCityCode": "HRB",
         "price": 1492.0
-    },
-    {
-        "cityName": "库尔勒",
-        "airportName": "库尔勒机场",
-        "arrCityCode": "KRL",
-        "price": 2700.0
     },
     {
         "cityName": "乌鲁木齐",
@@ -294,10 +288,10 @@
         "price": 583.0
     },
     {
-        "cityName": "晋江",
-        "airportName": "晋江机场",
-        "arrCityCode": "JJN",
-        "price": 1002.0
+        "cityName": "库尔勒",
+        "airportName": "库尔勒机场",
+        "arrCityCode": "KRL",
+        "price": 2700.0
     },
     {
         "cityName": "福州",
@@ -306,22 +300,22 @@
         "price": 1230.0
     },
     {
-        "cityName": "桂林",
-        "airportName": "两江国际机场",
-        "arrCityCode": "KWL",
-        "price": 872.0
+        "cityName": "晋江",
+        "airportName": "晋江机场",
+        "arrCityCode": "JJN",
+        "price": 1003.0
     },
     {
         "cityName": "厦门",
         "airportName": "高崎国际机场",
         "arrCityCode": "XMN",
-        "price": 1180.0
+        "price": 1165.0
     },
     {
-        "cityName": "南宁",
-        "airportName": "吴墟机场",
-        "arrCityCode": "NNG",
-        "price": 1015.0
+        "cityName": "桂林",
+        "airportName": "两江国际机场",
+        "arrCityCode": "KWL",
+        "price": 854.0
     },
     {
         "cityName": "柳州",
@@ -330,10 +324,10 @@
         "price": 981.0
     },
     {
-        "cityName": "广州",
-        "airportName": "白云国际机场",
-        "arrCityCode": "CAN",
-        "price": 840.0
+        "cityName": "深圳",
+        "airportName": "黄田国际机场",
+        "arrCityCode": "SZX",
+        "price": 1027.0
     },
     {
         "cityName": "汕头",
@@ -342,22 +336,28 @@
         "price": 948.0
     },
     {
+        "cityName": "南宁",
+        "airportName": "吴墟机场",
+        "arrCityCode": "NNG",
+        "price": 930.0
+    },
+    {
+        "cityName": "广州",
+        "airportName": "白云国际机场",
+        "arrCityCode": "CAN",
+        "price": 800.0
+    },
+    {
         "cityName": "珠海",
         "airportName": "三灶机场",
         "arrCityCode": "ZUH",
-        "price": 1129.0
+        "price": 1117.0
     },
     {
         "cityName": "大连",
         "airportName": "周水子机场",
         "arrCityCode": "DLC",
         "price": 1370.0
-    },
-    {
-        "cityName": "深圳",
-        "airportName": "黄田国际机场",
-        "arrCityCode": "SZX",
-        "price": 979.0
     },
     {
         "cityName": "沈阳",

@@ -4,930 +4,1063 @@
         "airportShortName": "PVG",
         "cityName": "上海﹙浦东﹚",
         "cityNameEN": "Shanghai",
-        "airportName": "浦东国际机场"
+        "airportName": "浦东国际机场",
+        "cityID": 10099
     },
     {
         "provinces": "上海市",
         "airportShortName": "SHA",
         "cityName": "上海﹙虹桥﹚",
         "cityNameEN": "Shanghai",
-        "airportName": "虹桥国际机场"
+        "airportName": "虹桥国际机场",
+        "cityID": 10099
     },
     {
         "provinces": "山西省",
         "airportShortName": "CIH",
         "cityName": "长治",
         "cityNameEN": "Changzhi",
-        "airportName": "王村机场"
+        "airportName": "王村机场",
+        "cityID": 14401
     },
     {
         "provinces": "山西省",
         "airportShortName": "DAT",
         "cityName": "大同",
         "cityNameEN": "Datong",
-        "airportName": "怀仁机场"
+        "airportName": "怀仁机场",
+        "cityID": 11241
     },
     {
         "provinces": "山西省",
         "airportShortName": "TYN",
         "cityName": "太原",
         "cityNameEN": "Taiyuan",
-        "airportName": "武宿机场"
+        "airportName": "武宿机场",
+        "cityID": 11240
     },
     {
         "provinces": "山西省",
         "airportShortName": "YCU",
         "cityName": "运城",
         "cityNameEN": "Yuncheng",
-        "airportName": "运城机场"
+        "airportName": "运城机场",
+        "cityID": 13738
     },
     {
         "provinces": "山东省",
         "airportShortName": "DOY",
         "cityName": "东营",
         "cityNameEN": "Dongying",
-        "airportName": "东营机场"
+        "airportName": "东营机场",
+        "cityID": 11921
     },
     {
         "provinces": "山东省",
         "airportShortName": "LYI",
         "cityName": "临沂",
         "cityNameEN": "Linyi",
-        "airportName": "临沂机场"
+        "airportName": "临沂机场",
+        "cityID": 12819
     },
     {
         "provinces": "山东省",
         "airportShortName": "TAO",
         "cityName": "青岛",
         "cityNameEN": "Qingdao",
-        "airportName": "流亭国际机场"
+        "airportName": "流亭国际机场",
+        "cityID": 10444
     },
     {
         "provinces": "山东省",
         "airportShortName": "TNA",
         "cityName": "济南",
         "cityNameEN": "Jinan",
-        "airportName": "遥墙机场"
+        "airportName": "遥墙机场",
+        "cityID": 10575
     },
     {
         "provinces": "山东省",
         "airportShortName": "WEF",
         "cityName": "潍坊",
         "cityNameEN": "Weifang",
-        "airportName": "潍坊机场"
+        "airportName": "潍坊机场",
+        "cityID": 11707
     },
     {
         "provinces": "山东省",
         "airportShortName": "WEH",
         "cityName": "威海",
         "cityNameEN": "Weihai",
-        "airportName": "大水泊机场"
+        "airportName": "大水泊机场",
+        "cityID": 10256
     },
     {
         "provinces": "山东省",
         "airportShortName": "YNT",
         "cityName": "烟台",
         "cityNameEN": "Yantai",
-        "airportName": "莱山机场"
+        "airportName": "莱山机场",
+        "cityID": 11243
     },
     {
         "provinces": "内蒙古自治区",
         "airportShortName": "BAV",
         "cityName": "包头",
         "cityNameEN": "Baotou",
-        "airportName": "包头机场"
+        "airportName": "包头机场",
+        "cityID": 11574
     },
     {
         "provinces": "内蒙古自治区",
         "airportShortName": "CIF",
         "cityName": "赤峰",
         "cityNameEN": "Chifeng",
-        "airportName": "赤峰机场"
+        "airportName": "赤峰机场",
+        "cityID": 11573
     },
     {
         "provinces": "内蒙古自治区",
         "airportShortName": "HET",
         "cityName": "呼和浩特",
         "cityNameEN": "Hohhot",
-        "airportName": "白塔机场"
+        "airportName": "白塔机场",
+        "cityID": 11415
     },
     {
         "provinces": "内蒙古自治区",
         "airportShortName": "HLD",
         "cityName": "海拉尔",
         "cityNameEN": "Hailar",
-        "airportName": "东山机场"
+        "airportName": "东山机场",
+        "cityID": 10414
     },
     {
         "provinces": "内蒙古自治区",
         "airportShortName": "HLH",
         "cityName": "乌兰浩特",
         "cityNameEN": "Ulanhot",
-        "airportName": "乌兰浩特机场"
+        "airportName": "乌兰浩特机场",
+        "cityID": 18445
     },
     {
         "provinces": "内蒙古自治区",
         "airportShortName": "TGO",
         "cityName": "通辽",
         "cityNameEN": "Tongliao",
-        "airportName": "通辽机场"
+        "airportName": "通辽机场",
+        "cityID": 12586
     },
     {
         "provinces": "内蒙古自治区",
         "airportShortName": "XIL",
         "cityName": "锡林浩特",
         "cityNameEN": "Xilinhot",
-        "airportName": "锡林浩特机场"
+        "airportName": "锡林浩特机场",
+        "cityID": 20235
     },
     {
         "provinces": "天津市",
         "airportShortName": "TSN",
         "cityName": "天津",
         "cityNameEN": "Tianjin",
-        "airportName": "滨海国际机场"
+        "airportName": "滨海国际机场",
+        "cityID": 10320
     },
     {
         "provinces": "北京市",
         "airportShortName": "PEK",
         "cityName": "北京",
         "cityNameEN": "Beijing",
-        "airportName": "首都国际机场"
+        "airportName": "首都国际机场",
+        "cityID": 10065
     },
     {
         "provinces": "四川省",
         "airportShortName": "CTU",
         "cityName": "成都",
         "cityNameEN": "Chengdu",
-        "airportName": "双流国际机场"
+        "airportName": "双流国际机场",
+        "cityID": 10035
     },
     {
         "provinces": "四川省",
         "airportShortName": "DAX",
         "cityName": "达县",
         "cityNameEN": "Daxian",
-        "airportName": "河市坝机场"
+        "airportName": "河市坝机场",
+        "cityID": 10011
     },
     {
         "provinces": "四川省",
         "airportShortName": "JZH",
         "cityName": "九寨黄龙",
         "cityNameEN": "Jiuzhaigou",
-        "airportName": "九寨黄龙机场"
+        "airportName": "九寨黄龙机场",
+        "cityID": 10162
     },
     {
         "provinces": "四川省",
         "airportShortName": "LZO",
         "cityName": "泸州",
         "cityNameEN": "Luzhou",
-        "airportName": "兰田机场"
+        "airportName": "兰田机场",
+        "cityID": 13518
     },
     {
         "provinces": "四川省",
         "airportShortName": "MIG",
         "cityName": "绵阳",
         "cityNameEN": "Mian Yang",
-        "airportName": "南郊机场"
+        "airportName": "南郊机场",
+        "cityID": 13663
     },
     {
         "provinces": "四川省",
         "airportShortName": "NAO",
         "cityName": "南充",
         "cityNameEN": "Nanchong",
-        "airportName": "南茺机场"
+        "airportName": "南茺机场",
+        "cityID": 18829
     },
     {
         "provinces": "四川省",
         "airportShortName": "PZI",
         "cityName": "攀枝花",
         "cityNameEN": "Panzhihua",
-        "airportName": "攀枝花机场"
+        "airportName": "攀枝花机场",
+        "cityID": 12038
     },
     {
         "provinces": "四川省",
         "airportShortName": "WXN",
         "cityName": "万县",
         "cityNameEN": "Wanxian",
-        "airportName": "梁平机场"
+        "airportName": "梁平机场",
+        "cityID": 19042
     },
     {
         "provinces": "四川省",
         "airportShortName": "XIC",
         "cityName": "西昌",
         "cityNameEN": "Xichang",
-        "airportName": "青山机场"
+        "airportName": "青山机场",
+        "cityID": 11630
     },
     {
         "provinces": "四川省",
         "airportShortName": "YBP",
         "cityName": "宜宾",
         "cityNameEN": "Yibin",
-        "airportName": "莱坝机场"
+        "airportName": "莱坝机场",
+        "cityID": 12555
     },
     {
         "provinces": "甘肃省",
         "airportShortName": "DNH",
         "cityName": "敦煌",
         "cityNameEN": "Dunhuang",
-        "airportName": "敦煌机场"
+        "airportName": "敦煌机场",
+        "cityID": 10240
     },
     {
         "provinces": "甘肃省",
         "airportShortName": "IQN",
         "cityName": "庆阳",
         "cityNameEN": "Qingyang",
-        "airportName": "庆阳机场"
+        "airportName": "庆阳机场",
+        "cityID": 15642
     },
     {
         "provinces": "甘肃省",
         "airportShortName": "JGN",
         "cityName": "嘉峪关",
         "cityNameEN": "Jiayuguan",
-        "airportName": "嘉峪关机场"
+        "airportName": "嘉峪关机场",
+        "cityID": 11353
     },
     {
         "provinces": "甘肃省",
         "airportShortName": "LHW",
         "cityName": "兰州",
         "cityNameEN": "Lanzhou Apt",
-        "airportName": "中川机场"
+        "airportName": "中川机场",
+        "cityID": 10783
     },
     {
         "provinces": "吉林省",
         "airportShortName": "CGQ",
         "cityName": "长春",
         "cityNameEN": "Changchun",
-        "airportName": "大房身机场"
+        "airportName": "大房身机场",
+        "cityID": 11247
     },
     {
         "provinces": "吉林省",
         "airportShortName": "JIL",
         "cityName": "吉林",
         "cityNameEN": "Jilin",
-        "airportName": "二台子机场"
+        "airportName": "二台子机场",
+        "cityID": 14871
     },
     {
         "provinces": "吉林省",
         "airportShortName": "YNJ",
         "cityName": "延吉",
         "cityNameEN": "Yanji",
-        "airportName": "朝阳川机场"
+        "airportName": "朝阳川机场",
+        "cityID": 11508
     },
     {
         "provinces": "安徽省",
         "airportShortName": "HFE",
         "cityName": "合肥",
         "cityNameEN": "Hefei",
-        "airportName": "骆岗机场"
+        "airportName": "骆岗机场",
+        "cityID": 10793
     },
     {
         "provinces": "安徽省",
         "airportShortName": "TXN",
         "cityName": "黄山",
         "cityNameEN": "Tunxi",
-        "airportName": "屯溪机场"
+        "airportName": "屯溪机场",
+        "cityID": 10440
     },
     {
         "provinces": "江西省",
         "airportShortName": "JDZ",
         "cityName": "景德镇",
         "cityNameEN": "Jingdezhen",
-        "airportName": "景德镇机场"
+        "airportName": "景德镇机场",
+        "cityID": 10589
     },
     {
         "provinces": "江西省",
         "airportShortName": "JGS",
         "cityName": "井冈山",
         "cityNameEN": "Jinggangshan",
-        "airportName": "井冈山机场"
+        "airportName": "井冈山机场",
+        "cityID": 11248
     },
     {
         "provinces": "江西省",
         "airportShortName": "KHN",
         "cityName": "南昌",
         "cityNameEN": "Nanchang",
-        "airportName": "昌北机场"
+        "airportName": "昌北机场",
+        "cityID": 11754
     },
     {
         "provinces": "江西省",
         "airportShortName": "KOW",
         "cityName": "赣州",
         "cityNameEN": "Ganzhou",
-        "airportName": "黄金机场"
+        "airportName": "黄金机场",
+        "cityID": 11609
     },
     {
         "provinces": "江苏省",
         "airportShortName": "CZX",
         "cityName": "常州",
         "cityNameEN": "Changzhou",
-        "airportName": "奔牛机场"
+        "airportName": "奔牛机场",
+        "cityID": 10802
     },
     {
         "provinces": "江苏省",
         "airportShortName": "LYG",
         "cityName": "连云港",
         "cityNameEN": "Lianyungang",
-        "airportName": "白塔阜机场"
+        "airportName": "白塔阜机场",
+        "cityID": 10804
     },
     {
         "provinces": "江苏省",
         "airportShortName": "NKG",
         "cityName": "南京",
         "cityNameEN": "Nanjing",
-        "airportName": "绿口国际机场"
+        "airportName": "绿口国际机场",
+        "cityID": 10684
     },
     {
         "provinces": "江苏省",
         "airportShortName": "NTG",
         "cityName": "南通",
         "cityNameEN": "Nantong",
-        "airportName": "兴东机场"
+        "airportName": "兴东机场",
+        "cityID": 11558
     },
     {
         "provinces": "江苏省",
         "airportShortName": "WUX",
         "cityName": "无锡",
         "cityNameEN": "Wuxi",
-        "airportName": "无锡机场"
+        "airportName": "无锡机场",
+        "cityID": 10140
     },
     {
         "provinces": "江苏省",
         "airportShortName": "XUZ",
         "cityName": "徐州",
         "cityNameEN": "Xuzhou",
-        "airportName": "观音机场"
+        "airportName": "观音机场",
+        "cityID": 11431
     },
     {
         "provinces": "江苏省",
         "airportShortName": "YNZ",
         "cityName": "盐城",
         "cityNameEN": "Yancheng",
-        "airportName": "盐城机场"
+        "airportName": "盐城机场",
+        "cityID": 15820
     },
     {
         "provinces": "西藏自治区",
         "airportShortName": "BPX",
         "cityName": "昌都",
         "cityNameEN": "Bangda",
-        "airportName": "邦达机场"
+        "airportName": "邦达机场",
+        "cityID": 11700
     },
     {
         "provinces": "西藏自治区",
         "airportShortName": "LXA",
         "cityName": "拉萨",
         "cityNameEN": "Lhasa",
-        "airportName": "贡嘎机场"
+        "airportName": "贡嘎机场",
+        "cityID": 10442
     },
     {
         "provinces": "河北省",
         "airportShortName": "SHP",
         "cityName": "秦皇岛",
         "cityNameEN": "Qinhuangdao",
-        "airportName": "山海关机场"
+        "airportName": "山海关机场",
+        "cityID": 11499
     },
     {
         "provinces": "河北省",
         "airportShortName": "SJW",
         "cityName": "石家庄",
         "cityNameEN": "Shijiazhuang",
-        "airportName": "正定机场"
+        "airportName": "正定机场",
+        "cityID": 11830
     },
     {
         "provinces": "河南省",
         "airportShortName": "CGO",
         "cityName": "郑州",
         "cityNameEN": "Zhengzhou",
-        "airportName": "新郑机场"
+        "airportName": "新郑机场",
+        "cityID": 10794
     },
     {
         "provinces": "河南省",
         "airportShortName": "LYA",
         "cityName": "洛阳",
         "cityNameEN": "Luoyang",
-        "airportName": "北郊机场"
+        "airportName": "北郊机场",
+        "cityID": 10094
     },
     {
         "provinces": "河南省",
         "airportShortName": "NNY",
         "cityName": "南阳",
         "cityNameEN": "Nanyang",
-        "airportName": "姜管机场"
+        "airportName": "姜管机场",
+        "cityID": 17396
     },
     {
         "provinces": "青海省",
         "airportShortName": "GOQ",
         "cityName": "格尔木",
         "cityNameEN": "Golmud",
-        "airportName": "格尔木机场"
+        "airportName": "格尔木机场",
+        "cityID": 20876
     },
     {
         "provinces": "青海省",
         "airportShortName": "XNN",
         "cityName": "西宁",
         "cityNameEN": "Xining",
-        "airportName": "曹家堡机场"
+        "airportName": "曹家堡机场",
+        "cityID": 10800
     },
     {
         "provinces": "重庆市",
         "airportShortName": "CKG",
         "cityName": "重庆",
         "cityNameEN": "Chongqing",
-        "airportName": "江北国际机场"
+        "airportName": "江北国际机场",
+        "cityID": 10208
     },
     {
         "provinces": "海南省",
         "airportShortName": "HAK",
         "cityName": "海口",
         "cityNameEN": "Haikou",
-        "airportName": "美兰机场"
+        "airportName": "美兰机场",
+        "cityID": 10513
     },
     {
         "provinces": "海南省",
         "airportShortName": "SYX",
         "cityName": "三亚",
         "cityNameEN": "Sanya",
-        "airportName": "凤凰国际机场"
+        "airportName": "凤凰国际机场",
+        "cityID": 10030
     },
     {
         "provinces": "浙江省",
         "airportShortName": "HGH",
         "cityName": "杭州",
         "cityNameEN": "Hangzhou",
-        "airportName": "萧山机场"
+        "airportName": "萧山机场",
+        "cityID": 10156
     },
     {
         "provinces": "浙江省",
         "airportShortName": "HSN",
         "cityName": "舟山",
         "cityNameEN": "Zhoushan",
-        "airportName": "普陀山机场"
+        "airportName": "普陀山机场",
+        "cityID": 11505
     },
     {
         "provinces": "浙江省",
         "airportShortName": "HYN",
         "cityName": "黄岩",
         "cityNameEN": "Huangyan",
-        "airportName": "路桥机场"
+        "airportName": "路桥机场",
+        "cityID": 13298
     },
     {
         "provinces": "浙江省",
         "airportShortName": "JUZ",
         "cityName": "衢州",
         "cityNameEN": "Juzhou",
-        "airportName": "衢州机场"
+        "airportName": "衢州机场",
+        "cityID": 12651
     },
     {
         "provinces": "浙江省",
         "airportShortName": "NGB",
         "cityName": "宁波",
         "cityNameEN": "Ningbo",
-        "airportName": "栎社机场"
+        "airportName": "栎社机场",
+        "cityID": 10129
     },
     {
         "provinces": "浙江省",
         "airportShortName": "WNZ",
         "cityName": "温州",
         "cityNameEN": "Wenzhou",
-        "airportName": "永强机场"
+        "airportName": "永强机场",
+        "cityID": 11688
     },
     {
         "provinces": "浙江省",
         "airportShortName": "YIW",
         "cityName": "义乌",
         "cityNameEN": "Yiwu",
-        "airportName": "义乌机场"
+        "airportName": "义乌机场",
+        "cityID": 64478
     },
     {
         "provinces": "陕西省",
         "airportShortName": "AKA",
         "cityName": "安康",
         "cityNameEN": "Ankang",
-        "airportName": "五里机场"
+        "airportName": "五里机场",
+        "cityID": 14410
     },
     {
         "provinces": "陕西省",
         "airportShortName": "ENY",
         "cityName": "延安",
         "cityNameEN": "Yan'an",
-        "airportName": "二十里铺机场"
+        "airportName": "二十里铺机场",
+        "cityID": 11349
     },
     {
         "provinces": "陕西省",
         "airportShortName": "UYN",
         "cityName": "榆林",
         "cityNameEN": "Yulin",
-        "airportName": "西沙机场"
+        "airportName": "西沙机场",
+        "cityID": 11613
     },
     {
         "provinces": "陕西省",
         "airportShortName": "XIY",
         "cityName": "西安",
         "cityNameEN": "Xi an Xianyang Apt",
-        "airportName": "咸阳国际机场"
+        "airportName": "咸阳国际机场",
+        "cityID": 10195
     },
     {
         "provinces": "湖北省",
         "airportShortName": "ENH",
         "cityName": "恩施",
         "cityNameEN": "Enshi",
-        "airportName": "许家坪机场"
+        "airportName": "许家坪机场",
+        "cityID": 10521
     },
     {
         "provinces": "湖北省",
         "airportShortName": "HZG",
         "cityName": "汉中",
         "cityNameEN": "Hanzhong",
-        "airportName": "西关机场"
+        "airportName": "西关机场",
+        "cityID": 13366
     },
     {
         "provinces": "湖北省",
         "airportShortName": "SHS",
         "cityName": "沙市",
         "cityNameEN": "Shashi",
-        "airportName": "沙市机场"
+        "airportName": "沙市机场",
+        "cityID": 14124
     },
     {
         "provinces": "湖北省",
         "airportShortName": "WUH",
         "cityName": "武汉",
         "cityNameEN": "Wuhan",
-        "airportName": "天河机场"
+        "airportName": "天河机场",
+        "cityID": 10133
     },
     {
         "provinces": "湖北省",
         "airportShortName": "XFN",
         "cityName": "襄樊",
         "cityNameEN": "Xiangfan",
-        "airportName": "刘集机场"
+        "airportName": "刘集机场",
+        "cityID": 10787
     },
     {
         "provinces": "湖北省",
         "airportShortName": "YIH",
         "cityName": "宜昌",
         "cityNameEN": "Yichang",
-        "airportName": "三峡机场"
+        "airportName": "三峡机场",
+        "cityID": 10490
     },
     {
         "provinces": "湖南省",
         "airportShortName": "CGD",
         "cityName": "常德",
         "cityNameEN": "Changde",
-        "airportName": "斗姆湖机场"
+        "airportName": "斗姆湖机场",
+        "cityID": 17070
     },
     {
         "provinces": "湖南省",
         "airportShortName": "CSX",
         "cityName": "长沙",
         "cityNameEN": "Changsha",
-        "airportName": "黄花机场"
+        "airportName": "黄花机场",
+        "cityID": 10466
     },
     {
         "provinces": "湖南省",
         "airportShortName": "DYG",
         "cityName": "张家界",
         "cityNameEN": "Dayong",
-        "airportName": "荷花机场"
+        "airportName": "荷花机场",
+        "cityID": 10267
     },
     {
         "provinces": "湖南省",
         "airportShortName": "LLF",
         "cityName": "永州",
         "cityNameEN": "Yongzhou",
-        "airportName": "永州机场"
+        "airportName": "永州机场",
+        "cityID": 22460
     },
     {
         "provinces": "贵州省",
         "airportShortName": "KWE",
         "cityName": "贵阳",
         "cityNameEN": "Guiyang",
-        "airportName": "龙洞堡机场"
+        "airportName": "龙洞堡机场",
+        "cityID": 11239
     },
     {
         "provinces": "贵州省",
         "airportShortName": "TEN",
         "cityName": "铜仁",
         "cityNameEN": "Tongren",
-        "airportName": "大兴机场"
+        "airportName": "大兴机场",
+        "cityID": 13707
     },
     {
         "provinces": "云南省",
         "airportShortName": "BSD",
         "cityName": "保山",
         "cityNameEN": "Baoshan",
-        "airportName": "云端机场"
+        "airportName": "云端机场",
+        "cityID": 24185
     },
     {
         "provinces": "云南省",
         "airportShortName": "DIG",
         "cityName": "迪庆",
         "cityNameEN": "Diqing",
-        "airportName": "香格里拉机场"
+        "airportName": "香格里拉机场",
+        "cityID": 27224
     },
     {
         "provinces": "云南省",
         "airportShortName": "DLU",
         "cityName": "大理",
         "cityNameEN": "Dali City",
-        "airportName": "大理机场"
+        "airportName": "大理机场",
+        "cityID": 10487
     },
     {
         "provinces": "云南省",
         "airportShortName": "JHG",
         "cityName": "西双版纳",
         "cityNameEN": "Jinghong",
-        "airportName": "嘎洒机场"
+        "airportName": "嘎洒机场",
+        "cityID": 10809
     },
     {
         "provinces": "云南省",
         "airportShortName": "KMG",
         "cityName": "昆明",
         "cityNameEN": "Kunming",
-        "airportName": "巫家坝机场"
+        "airportName": "巫家坝机场",
+        "cityID": 10807
     },
     {
         "provinces": "云南省",
         "airportShortName": "LJG",
         "cityName": "丽江",
         "cityNameEN": "Lijiang City",
-        "airportName": "丽江机场"
+        "airportName": "丽江机场",
+        "cityID": 10186
     },
     {
         "provinces": "云南省",
         "airportShortName": "LUM",
         "cityName": "芒市",
         "cityNameEN": "Luxi",
-        "airportName": "芒市机场"
+        "airportName": "芒市机场",
+        "cityID": 30426
     },
     {
         "provinces": "云南省",
         "airportShortName": "SYM",
         "cityName": "思茅",
         "cityNameEN": "Simao",
-        "airportName": "思茅机场"
+        "airportName": "思茅机场",
+        "cityID": 141521
     },
     {
         "provinces": "云南省",
         "airportShortName": "ZAT",
         "cityName": "昭通",
         "cityNameEN": "Zhaotong",
-        "airportName": "昭通机场"
+        "airportName": "昭通机场",
+        "cityID": 11827
     },
     {
         "provinces": "黑龙江省",
         "airportShortName": "HEK",
         "cityName": "黑河",
         "cityNameEN": "Heihe",
-        "airportName": "黑河机场"
+        "airportName": "黑河机场",
+        "cityID": 22006
     },
     {
         "provinces": "黑龙江省",
         "airportShortName": "HRB",
         "cityName": "哈尔滨",
         "cityNameEN": "Harbin",
-        "airportName": "阎家岗机场"
+        "airportName": "阎家岗机场",
+        "cityID": 10068
     },
     {
         "provinces": "黑龙江省",
         "airportShortName": "JMU",
         "cityName": "佳木斯",
         "cityNameEN": "Jiamusi",
-        "airportName": "东郊机场"
+        "airportName": "东郊机场",
+        "cityID": 13267
     },
     {
         "provinces": "黑龙江省",
         "airportShortName": "MDG",
         "cityName": "牡丹江",
         "cityNameEN": "Mudanjiang",
-        "airportName": "海浪机场"
+        "airportName": "海浪机场",
+        "cityID": 13913
     },
     {
         "provinces": "黑龙江省",
         "airportShortName": "NDG",
         "cityName": "齐齐哈尔",
         "cityNameEN": "Qiqihar",
-        "airportName": "三家子机场"
+        "airportName": "三家子机场",
+        "cityID": 11709
     },
     {
         "provinces": "新强维吾尔自治区",
         "airportShortName": "AAT",
         "cityName": "阿勒泰",
         "cityNameEN": "Altay",
-        "airportName": "阿勒泰机场"
+        "airportName": "阿勒泰机场",
+        "cityID": 18400
     },
     {
         "provinces": "新强维吾尔自治区",
         "airportShortName": "AKU",
         "cityName": "阿克苏",
         "cityNameEN": "Aksu",
-        "airportName": "温宿机场"
+        "airportName": "温宿机场",
+        "cityID": 18008
     },
     {
         "provinces": "新强维吾尔自治区",
         "airportShortName": "FYN",
         "cityName": "富蕴",
         "cityNameEN": "Fuyang",
-        "airportName": "可可托机场"
+        "airportName": "可可托机场",
+        "cityID": 64136
     },
     {
         "provinces": "新强维吾尔自治区",
         "airportShortName": "HTN",
         "cityName": "和田",
         "cityNameEN": "Hotan",
-        "airportName": "和田机场"
+        "airportName": "和田机场",
+        "cityID": 18005
     },
     {
         "provinces": "新强维吾尔自治区",
         "airportShortName": "IQM",
         "cityName": "且末",
         "cityNameEN": "Qiemo",
-        "airportName": "且末机场"
+        "airportName": "且末机场",
+        "cityID": 63604
     },
     {
         "provinces": "新强维吾尔自治区",
         "airportShortName": "KCA",
         "cityName": "库车",
         "cityNameEN": "Kuqa",
-        "airportName": "库车机场"
+        "airportName": "库车机场",
+        "cityID": 16142
     },
     {
         "provinces": "新强维吾尔自治区",
         "airportShortName": "KHG",
         "cityName": "喀什",
         "cityNameEN": "Kashi",
-        "airportName": "喀什机场"
+        "airportName": "喀什机场",
+        "cityID": 10468
     },
     {
         "provinces": "新强维吾尔自治区",
         "airportShortName": "KRL",
         "cityName": "库尔勒",
         "cityNameEN": "Korla",
-        "airportName": "库尔勒机场"
+        "airportName": "库尔勒机场",
+        "cityID": 12289
     },
     {
         "provinces": "新强维吾尔自治区",
         "airportShortName": "KRY",
         "cityName": "克拉玛依",
         "cityNameEN": "Karamay",
-        "airportName": "克拉玛依机场"
+        "airportName": "克拉玛依机场",
+        "cityID": 15017
     },
     {
         "provinces": "新强维吾尔自治区",
         "airportShortName": "TCG",
         "cityName": "塔城",
         "cityNameEN": "Tacheng",
-        "airportName": "塔城机场"
+        "airportName": "塔城机场",
+        "cityID": 61977
     },
     {
         "provinces": "新强维吾尔自治区",
         "airportShortName": "URC",
         "cityName": "乌鲁木齐",
         "cityNameEN": "Urumqi",
-        "airportName": "地窝堡机场"
+        "airportName": "地窝堡机场",
+        "cityID": 10218
     },
     {
         "provinces": "新强维吾尔自治区",
         "airportShortName": "YIN",
         "cityName": "伊宁",
         "cityNameEN": "Yining",
-        "airportName": "伊宁机场"
+        "airportName": "伊宁机场",
+        "cityID": 63095
     },
     {
         "provinces": "宁夏回族自治区",
         "airportShortName": "INC",
         "cityName": "银川",
         "cityNameEN": "Yinchuan",
-        "airportName": "河东机场"
+        "airportName": "河东机场",
+        "cityID": 10771
     },
     {
         "provinces": "福建省",
         "airportShortName": "FOC",
         "cityName": "福州",
         "cityNameEN": "Fuzhou",
-        "airportName": "长乐国际机场"
+        "airportName": "长乐国际机场",
+        "cityID": 11498
     },
     {
         "provinces": "福建省",
         "airportShortName": "JJN",
         "cityName": "晋江",
         "cityNameEN": "Jinjiang",
-        "airportName": "晋江机场"
+        "airportName": "晋江机场",
+        "cityID": 64561
     },
     {
         "provinces": "福建省",
         "airportShortName": "WUS",
         "cityName": "武夷山",
         "cityNameEN": "Wuyishan",
-        "airportName": "武夷山机场"
+        "airportName": "武夷山机场",
+        "cityID": 10039
     },
     {
         "provinces": "福建省",
         "airportShortName": "XMN",
         "cityName": "厦门",
         "cityNameEN": "Xiamen",
-        "airportName": "高崎国际机场"
+        "airportName": "高崎国际机场",
+        "cityID": 10132
     },
     {
         "provinces": "广西壮族自治区",
         "airportShortName": "BHY",
         "cityName": "北海",
         "cityNameEN": "Beihai",
-        "airportName": "福城机场"
+        "airportName": "福城机场",
+        "cityID": 10796
     },
     {
         "provinces": "广西壮族自治区",
         "airportShortName": "KWL",
         "cityName": "桂林",
         "cityNameEN": "Guilin",
-        "airportName": "两江国际机场"
+        "airportName": "两江国际机场",
+        "cityID": 10095
     },
     {
         "provinces": "广西壮族自治区",
         "airportShortName": "LZH",
         "cityName": "柳州",
         "cityNameEN": "Liuzhou",
-        "airportName": "白莲机场"
+        "airportName": "白莲机场",
+        "cityID": 12513
     },
     {
         "provinces": "广西壮族自治区",
         "airportShortName": "NNG",
         "cityName": "南宁",
         "cityNameEN": "Nanning",
-        "airportName": "吴墟机场"
+        "airportName": "吴墟机场",
+        "cityID": 10308
     },
     {
         "provinces": "广东省",
         "airportShortName": "CAN",
         "cityName": "广州",
         "cityNameEN": "Guangzhou",
-        "airportName": "白云国际机场"
+        "airportName": "白云国际机场",
+        "cityID": 10088
     },
     {
         "provinces": "广东省",
         "airportShortName": "MXZ",
         "cityName": "梅县",
         "cityNameEN": "Meixian",
-        "airportName": "梅县机场"
+        "airportName": "梅县机场",
+        "cityID": 14210
     },
     {
         "provinces": "广东省",
         "airportShortName": "SWA",
         "cityName": "汕头",
         "cityNameEN": "Shantou",
-        "airportName": "外砂机场"
+        "airportName": "外砂机场",
+        "cityID": 13063
     },
     {
         "provinces": "广东省",
         "airportShortName": "SZX",
         "cityName": "深圳",
         "cityNameEN": "Shenzhen",
-        "airportName": "黄田国际机场"
+        "airportName": "黄田国际机场",
+        "cityID": 10198
     },
     {
         "provinces": "广东省",
         "airportShortName": "ZHA",
         "cityName": "湛江",
         "cityNameEN": "Zhanjiang",
-        "airportName": "湛江机场"
+        "airportName": "湛江机场",
+        "cityID": 12475
     },
     {
         "provinces": "广东省",
         "airportShortName": "ZUH",
         "cityName": "珠海",
         "cityNameEN": "Zhuhai",
-        "airportName": "三灶机场"
+        "airportName": "三灶机场",
+        "cityID": 10269
     },
     {
         "provinces": "辽宁省",
         "airportShortName": "CHG",
         "cityName": "朝阳",
         "cityNameEN": "Chaoyang",
-        "airportName": "朝阳机场"
+        "airportName": "朝阳机场",
+        "cityID": 62068
     },
     {
         "provinces": "辽宁省",
         "airportShortName": "DDG",
         "cityName": "丹东",
         "cityNameEN": "Dandong",
-        "airportName": "浪头机场"
+        "airportName": "浪头机场",
+        "cityID": 10584
     },
     {
         "provinces": "辽宁省",
         "airportShortName": "DLC",
         "cityName": "大连",
         "cityNameEN": "Dalian",
-        "airportName": "周水子机场"
+        "airportName": "周水子机场",
+        "cityID": 10301
     },
     {
         "provinces": "辽宁省",
         "airportShortName": "JNZ",
         "cityName": "锦州",
         "cityNameEN": "Jinzhou",
-        "airportName": "小岭子机场"
+        "airportName": "小岭子机场",
+        "cityID": 10537
     },
     {
         "provinces": "辽宁省",
         "airportShortName": "SHE",
         "cityName": "沈阳",
         "cityNameEN": "Shenyang",
-        "airportName": "桃仙国际机场"
+        "airportName": "桃仙国际机场",
+        "cityID": 10075
     }
 ]
