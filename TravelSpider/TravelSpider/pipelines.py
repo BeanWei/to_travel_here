@@ -40,3 +40,30 @@ class JsonExporterPipeline_Two(object):
         self.exporter.export_item(item)
         return item
 
+class JsonExporterPipeline_Three(object):
+    def __init__(self):
+        self.file = open(os.path.abspath(os.path.dirname(__file__))+'/spiders/AllViewset.json','wb')
+        self.exporter = JsonItemExporter(self.file,encoding="utf-8",ensure_ascii=False)
+        self.exporter.start_exporting()
+
+    def close_spider(self,spider):
+        self.exporter.finish_exporting()
+        self.file.close()
+
+    def process_item(self,item,spider):
+        self.exporter.export_item(item)
+        return item
+
+class JsonExporterPipeline_Four(object):
+    def __init__(self):
+        self.file = open(os.path.abspath(os.path.dirname(__file__))+'/spiders/AllHotel.json','wb')
+        self.exporter = JsonItemExporter(self.file,encoding="utf-8",ensure_ascii=False)
+        self.exporter.start_exporting()
+
+    def close_spider(self,spider):
+        self.exporter.finish_exporting()
+        self.file.close()
+
+    def process_item(self,item,spider):
+        self.exporter.export_item(item)
+        return item

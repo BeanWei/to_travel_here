@@ -23,3 +23,11 @@ class AllUsefulInfoItem(scrapy.Item):
     cityID = scrapy.Field()
     tid = scrapy.Field()
     answers = scrapy.Field()
+
+class AllViewsetItem(scrapy.Item):
+    cityID = scrapy.Field()
+    viewsetName = scrapy.Field()
+
+class AllHotelItem(scrapy.Item):
+    cityID = scrapy.Field()
+    hotelName = scrapy.Field()

@@ -7,6 +7,9 @@
 
 from scrapy import signals
 
+import random  
+import requests
+
 
 class TravelspiderSpiderMiddleware(object):
     # Not all methods need to be defined. If a method is not defined,
@@ -103,8 +106,6 @@ class TravelspiderDownloaderMiddleware(object):
         spider.logger.info('Spider opened: %s' % spider.name)
 
 
-import random
-
 class RandomUserAgent(object):
     """Randomly rotate user agents based on a list of predefined ones"""
 
@@ -118,6 +119,26 @@ class RandomUserAgent(object):
     def process_request(self, request, spider):
         request.headers.setdefault('User-Agent', random.choice(self.agents))
 
+#  自定义代理中间件(此处使用蘑菇代理，可以自己修改和匹配)
+class ProxyMiddleware(object):
+    s = requests.session()
+    s.keep_alive = False
+
+    def __init__(self):
+        self.url = "http://piping.mogumiao.com/proxy/api/get_ip_al?appKey=91a4450c3b98477bcfead8c060db8d&count=10&expiryDate=5&format=2"
+        self.proxy = requests.get(self.url).text.split("\r\n")[0:-1]
+        self.counts = 0
+
+    def process_request(self, request, spider):
+        #  这里作一个计数器,在访问次数超过1000次之后就切换一批(10个)高匿代理,使得代理一直保持最新的状态
+        if self.counts < 1000:
+            pre_proxy = random.choice(self.proxy)
+            request.meta['proxy'] = 'https://{}'.format(pre_proxy)
+            self.counts += 1
+        else:
+            # 进入到这里的这一次就不设定代理了,直接使用本机ip访问
+            self.counts = 0
+            self.proxy = requests.get(self.url).text.split("\r\n")[0:-1]
 
 
 
