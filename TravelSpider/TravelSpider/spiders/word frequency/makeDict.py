@@ -12,7 +12,7 @@ with open(os.path.abspath(os.path.join(os.getcwd(), ".."))+'/AllViewset.json','r
             file.write(line+' '+'ns'+'\n')
     file.close()
 '''
-with open(os.path.abspath(os.path.join(os.getcwd(), ".."))+'/AllHotel.json','r',encoding='utf-8') as f:
+with open(os.path.abspath(os.path.dirname(os.path.dirname(__file__)))+'/AllHotel.json','r',encoding='utf-8') as f:
     viewsets = json.loads(f.read())
     cityID = viewsets[0]['cityID']
     file = open(str(cityID)+'_hotel.txt','a+',encoding='utf-8')

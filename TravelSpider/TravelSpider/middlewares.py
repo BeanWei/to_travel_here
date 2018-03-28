@@ -9,6 +9,7 @@ from scrapy import signals
 
 import random  
 import requests
+import os
 
 
 class TravelspiderSpiderMiddleware(object):
@@ -139,6 +140,14 @@ class ProxyMiddleware(object):
             # 进入到这里的这一次就不设定代理了,直接使用本机ip访问
             self.counts = 0
             self.proxy = requests.get(self.url).text.split("\r\n")[0:-1]
+
+class myProxyMiddleware(object):
+    def __init__(self):
+        self.file = open(os.path.abspath(os.path.dirname(__file__))+'/ProxyPools.txt')
+
+    def process_request(self, request, spider):
+        ip = random.choice(self.file.readlines())
+        request.meta['proxy'] = "http://"+str(ip)
 
 
 
