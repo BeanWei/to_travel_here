@@ -59,7 +59,8 @@ CONCURRENT_REQUESTS_PER_DOMAIN = 10
 # See https://doc.scrapy.org/en/latest/topics/downloader-middleware.html
 DOWNLOADER_MIDDLEWARES = {
 #    'TravelSpider.middlewares.TravelspiderDownloaderMiddleware': 543,
-    'TravelSpider.middlewares.ProxyMiddleware': 100,
+    # 'TravelSpider.middlewares.ProxyMiddleware': 100,
+    'TravelSpider.middlewares.myProxyMiddleware': 100,
 }
 
 # Enable or disable extensions
